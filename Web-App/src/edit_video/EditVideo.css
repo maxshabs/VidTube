@@ -1,0 +1,106 @@
+#edit-page-row {
+    display: flex;
+    margin: 0;
+}
+.edit-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: var(--background-color);
+    border-radius: 10px;
+    margin-right: auto;
+}
+
+.head-title {
+    color: var(--text-color);
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.form {
+    width: 100%;
+    max-width: 600px;
+}
+
+.inputs-container {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    background-color: var(--input-container-background-color);
+    border-radius: 10px;
+    padding: 10px;
+    gap: 15px;
+}
+
+.input {
+    padding: 10px;
+    border: 1px solid var(--input-border-color);
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.description-input {
+    color: var(--color-text);
+    min-height: 100px;
+}
+
+.file-label {
+    font-weight: bold;
+    color: var(--color-text);
+    text-align: left;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    margin: auto 10px;
+    display: inline-block;
+}
+
+.cancel-button {
+    background-color: rgb(214, 50, 50);
+    color: var(--color-text);
+}
+
+.cancel-button:hover {
+    background-color: rgba(163, 10, 10, 0.9);
+    transition: background-color 0.3s;
+}
+
+.save-button {
+    background-color: rgb(39, 89, 226);
+    color: var(--color-text);
+}
+
+.save-button:hover {
+    background-color: rgb(15, 71, 223);
+    transition: background-color 0.3s;
+}
+
+#title {
+    color: var(--color-text);
+    background-color: var(--background-color);
+}
+
+#description {
+    color: black;
+    background-color: var(--background-color);
+}

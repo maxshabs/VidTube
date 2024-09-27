@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Funniest video of 2022",
+    "description": "The funniest video of 2022. You will laugh so hard that you will cry!",
+    "author": "MemePage1",
+    "views": "1.2M",
+    "img": "img1",
+    "video": "android.resource://com.example.project_android/raw/funnyvid",
+    "uploadTime": "8 hours ago",
+    "authorImage": "img1"
+  },
+  {
+    "id": "2",
+    "title": "Lebron James insane dunk",
+    "description": "Lebron james puts nurkic on a poster!",
+    "author": "LeKing James",
+    "views": "517K",
+    "img": "lebronpic",
+    "video": "android.resource://com.example.project_android/raw/lebrondunk",
+    "uploadTime": "2 hours ago",
+    "authorImage": "img2"
+  },
+  {
+    "id": "3",
+    "title": "Deadpool 2 trailer",
+    "description": "Coming soon to theatres near you and worldwide.",
+    "author": "Marvel Studios",
+    "views": "1.2M",
+    "img": "deadpoolpic",
+    "video": "android.resource://com.example.project_android/raw/deadpool",
+    "uploadTime": "5 hours ago",
+    "authorImage": "img3"
+  },
+  {
+    "id": "4",
+    "title": "Family guy 6 second talkshow",
+    "description": "funny family guy clip",
+    "author": "MegaEpicGaming",
+    "views": "5.7K",
+    "img": "famguy1pic",
+    "video": "android.resource://com.example.project_android/raw/familyguy",
+    "uploadTime": "8 hours ago",
+    "authorImage": "img4"
+  },
+  {
+    "id": "5",
+    "title": "Family guy roasts countries FUNNY!",
+    "description": "funny family guy clip2",
+    "author": "DailyLaugh",
+    "views": "3.4M",
+    "img": "famguy2pic",
+    "video": "android.resource://com.example.project_android/raw/familyguy2",
+    "uploadTime": "10 hours ago",
+    "authorImage": "img5"
+  },
+  {
+    "id": "6",
+    "title": "GTA VI trailer",
+    "description": "gonna be amazing.",
+    "author": "Rockstar Games",
+    "views": "5.2M",
+    "img": "gtavipic",
+    "video": "android.resource://com.example.project_android/raw/gtavi",
+    "uploadTime": "1 hours ago",
+    "authorImage": "img9"
+  },
+  {
+    "id": "7",
+    "title": "Anthony Edwards crazy dunk!",
+    "description": "Anthony is an up and coming NBA star.",
+    "author": "NBA",
+    "views": "2M",
+    "img": "anthony",
+    "video": "android.resource://com.example.project_android/raw/antedwards",
+    "uploadTime": "2 hours ago",
+    "authorImage": "img6"
+  },
+  {
+    "id": "8",
+    "title": "Funny Minions",
+    "description": "The funniest minions video of 2023, if you laugh you lose!",
+    "author": "FunnyMinions",
+    "views": "1.5M",
+    "img": "minionspic",
+    "video": "android.resource://com.example.project_android/raw/minions",
+    "uploadTime": "6 hours ago",
+    "authorImage": "img7"
+  },
+  {
+    "id": "9",
+    "title": "Tokyo from all angles-amazing!",
+    "description": "The best of Tokyo, Japan.",
+    "author": "TravelToday",
+    "views": "103K",
+    "img": "tokyothings",
+    "video": "android.resource://com.example.project_android/raw/tokyo",
+    "uploadTime": "3 hours ago",
+    "authorImage": "img8"
+  },
+  {
+    "id": "10",
+    "title": "10 second animation",
+    "author": "Animate Central",
+    "views": "1.9M",
+    "description": "A video showcasing the best Animation of 2023. You won't believe how cool it is!",
+    "img": "animationpic",
+    "video": "android.resource://com.example.project_android/raw/animation",
+    "uploadTime": "4 hours ago",
+    "authorImage": "img10"
+  }
+]

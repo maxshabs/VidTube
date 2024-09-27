@@ -1,0 +1,73 @@
+/* Comment section */
+.commentSection {
+    padding-top: 30px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .addCommentContainer {
+    display: flex;
+    flex: 1;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .cancelBtn {
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 7px 14px;
+  }
+
+  .cancelBtn:hover {
+    background-color: gray;
+    padding: 7px 14px;
+    background-color: lightgray; /* Primary color */
+    color: black; /* Text color */
+    border: none; /* Remove default border */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+  }
+
+  .commentBtn {
+    padding: 7px 14px;
+    background-color: lightgray; /* Primary color */
+    color: black; /* Text color */
+    border: none; /* Remove default border */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+    font-weight: 600;
+  }
+
+  .commentBtn:hover {
+    background-color: gray;
+  }
+
+  .userPicture {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    object-fit: cover;
+    margin-left: -10px;
+  }
+
+  .textField {
+    border: none; /* Remove default border */
+    border-bottom: 1px solid #ccc; /* Add bottom border */
+    padding: 10px; /* Padding for content */
+    font-size: 16px; /* Font size */
+    width: 100%; /* Make input box wider */
+}
+
+.textField:focus {
+    outline: none; /* Remove outline on focus */
+    border-bottom: 1px solid black; /* Example border color on focus */
+}

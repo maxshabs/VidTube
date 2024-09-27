@@ -1,0 +1,39 @@
+
+/* Video page */
+  
+  .middle-col {
+    display: flex;
+  }
+
+  .thumbnail {
+    width: 100%;
+    border-radius: 15px;
+  }
+  
+  #description {
+    width: 100%;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding: 5px;
+    text-align: left;
+  }
+  
+  #action-bar {
+    width: 100%;
+  }
+
+  /* video title */
+  #title {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 5px;
+    text-align: left;
+  }
+  
+  /* date and view count */
+  #stats {
+    font-weight: bold;
+    text-align: left;
+  }
+  

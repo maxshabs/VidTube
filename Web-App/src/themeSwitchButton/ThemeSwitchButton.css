@@ -1,0 +1,17 @@
+.theme-switch-button {
+  background-color: rgba(255, 255, 255, 0);
+  color: #007bff;
+  border: 1px solid #007bff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  }
+  .theme-switch-button:hover {
+    background-color: #007bff; /* Hover background color */
+    color: white; /* Hover text and icon color */
+  }

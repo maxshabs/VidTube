@@ -1,0 +1,30 @@
+#search-box {
+    border-radius: 2rem;
+    overflow: hidden; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+    display: flex;
+    margin-top: 10px;
+    max-width: 500px; /* Set a maximum width */
+    width: 100%;
+    background-color: var(--button-background-color);
+}
+
+#search-box .form-control {
+    color: var(--text-color);
+    border: none;
+    border-radius: 2rem 0 0 2rem;
+    box-shadow: none;
+    padding-left: 1rem;
+    background-color: var(--button-background-color);
+}
+
+.form-control::placeholder {
+    color: var(--button-text-color);
+}
+#search-box .btn {
+    border: none;
+    border-left: 1px solid #ddd;
+    border-radius: 0 2rem 2rem 0;
+    padding: 0 1rem;
+    color: var(--button-text-color);
+}

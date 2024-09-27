@@ -1,0 +1,110 @@
+.profileContainer {
+  display: flex;
+  max-width: 800px; /* Adjust the width as needed */
+  margin: 0 auto;
+  padding: 1rem;
+  justify-content: space-between;
+}
+
+.form {
+  width: 100%; /* Full width of the left column */
+  display: flex;
+  flex-direction: column;
+}
+
+.inputContainer {
+  margin-bottom: 1rem;
+  padding-right: 50px;
+}
+
+.inputLabel {
+  margin-bottom: 0.5rem;
+  padding-right: 50px;
+}
+
+.input {
+  width: 100%;
+  padding: 0.5rem;
+  border: none;
+  border-bottom: 1px solid black; /* Always black bottom border */
+  outline: none;
+  padding-right: 50px;
+}
+
+
+.button, .deleteButton {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  padding-right: 50px;
+}
+
+.errorMessage {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.leftColumn {
+  flex: 1;
+  margin-right: 3rem;
+  border-right: 1px solid rgb(160, 160, 160); 
+}
+
+.rightColumn {
+  flex: 1;
+}
+
+.profileHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.profilePicture {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+
+.profileDisplayName {
+  font-size: 2rem;
+  padding-right: 10px;
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding-right: 50px;
+}
+
+.subSectionTitle {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  padding-right: 50px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 0.75rem 1.5rem; /* Standard padding */
+  margin-right: 50px;
+}
+
+.deleteButton {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 0.75rem 1.5rem; /* Standard padding */
+  margin-right: 50px;
+}
+
+#user-video-list {
+  width: 300px;
+}

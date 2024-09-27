@@ -1,0 +1,33 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="darker_gray">#A9A9A9</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="gray">#808080</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#EEEEEE</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#000000</color>
+    <color name="colorButtonBackground">#2187D8</color>
+    <color name="colorThemeButtonBackground">#67717A</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorHeaderBackground">#FFFFFF</color>
+    <color name="subscribeBackground">#000000</color>
+    <color name="subscribeTextColor">#FFFFFF</color>
+    <color name="nonSubscribeBackground">#D3D3D3</color>
+    <color name="oppositeOfBackground">#000000</color>
+    <color name="editButtonColor">#2A8BD8</color>
+    <color name="deleteButtonColor">#A11E1E</color>
+    <color name="dialog_button_color">#000000</color>
+    <color name="like_green">#00FF00</color>
+    <color name="dislike_red">#FF0000</color>
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="dialog_text">#000000</color>
+    <color name="editPageButtons">#C3C3C3</color>
+</resources>

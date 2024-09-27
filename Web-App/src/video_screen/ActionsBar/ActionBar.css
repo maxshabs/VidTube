@@ -1,0 +1,94 @@
+/* the bar for username and buttons */
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-bottom: 7px;
+  }
+  
+  /* the left side of the bar for username and buttons */
+  .userBar {
+    min-width: calc(50% - 6px);
+    flex: 1;
+    flex-basis: 0.000000001px;
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Align items vertically in the center */
+    gap: 10px; /* Add some space between items */
+  }
+  
+  .userBar img.img-thumbnail {
+    height: 50px;
+    width: 60px;
+    border-radius: 30px;
+    object-fit: cover;
+    margin-left: -10px;
+  }
+  
+  #userName {
+    margin: 0;
+    font-weight: bold;
+    color: var(--side-video-stats);
+    text-decoration: none;
+  }
+  
+  #userName:hover {
+    text-decoration: none;
+  }
+  
+  .userBar-button {
+    padding: 7px 14px;
+    background-color: lightgray; /* Primary color */
+    color: black; /* Text color */
+    border: none; /* Remove default border */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .userBar-button:hover {
+    background-color: gray;
+  }
+
+  .userBar-button.liked {
+    background-color: rgb(66, 212, 66);
+  }
+  
+  .userBar-button.disliked {
+    background-color: rgb(243, 77, 77);
+  }
+
+  .Link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .subscribe-button {
+    padding: 7px 14px;
+    background-color: black; /* Primary color */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+  }
+  
+  .subscribe-button:hover {
+    background-color: rgb(68, 68, 68);
+  }
+
+  .subscribe-button.subscribed {
+    background-color: lightgray; /* Primary color */
+    color: black; /* Text color */
+  }
+  
+  /* the right side of the bar for username and buttons-like,dislike,share etc */
+  .actionBar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }

@@ -1,0 +1,38 @@
+
+  .sideVideoPic {
+    width: 190px;
+    height: 120px;
+    border-radius: 7px;
+  }
+
+  .side-video-container {
+    width: 135%;
+    padding-bottom: 10px;
+  }
+
+  .sideVideoTextContainer {
+      padding-left: 25px;
+      width: fit-content;
+  }
+
+  .sideVideoTitle {
+    text-align: left;
+    font-weight: bold;
+    display: flex;
+  }
+
+  .sideVideoText {
+    text-align: left;
+  }
+
+  #sideVideoStats {
+    text-align: left;
+    color: var(--side-video-stats);
+  }
+  
+.link-style {
+  color: inherit;
+  text-decoration: none;
+}
+
+ 

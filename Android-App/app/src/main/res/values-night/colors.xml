@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorButtonBackground">#2187D8</color>
+    <color name="colorThemeButtonBackground">#B0C7DA</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorHeaderBackground">#121212</color>
+    <color name="subscribeBackground">#FFFFFF</color>
+    <color name="subscribeTextColor">#000000</color>
+    <color name="nonSubscribeBackground">#222222</color>
+    <color name="oppositeOfBackground">#FFFFFF</color>
+    <color name="editButtonColor">#075593</color>
+    <color name="deleteButtonColor">#450909</color>
+    <color name="editPageButtons">#24272B</color>
+    <color name="dialog_button_color">#FFFFFF</color>
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="dialog_text">#000000</color>
+</resources>
+

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71876494.css",
+    "main.js": "/static/js/main.d6363f21.js",
+    "static/media/favicon.png": "/static/media/favicon.e0e03043ed63b737af35.png",
+    "static/media/logo.png": "/static/media/logo.b69f33c8155e89623508.png",
+    "static/media/like.svg": "/static/media/like.18b64f0e49772073f17dddeca4e30257.svg",
+    "static/media/dislike.svg": "/static/media/dislike.031db86ca6f88d85a3bd55d9de0fa915.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.bcab769d89393ea8e837aa1ef3250447.svg",
+    "index.html": "/index.html",
+    "static/media/gmail.svg": "/static/media/gmail.9da3cc4767cbc199dd127a5f4bcc196b.svg",
+    "static/media/share.svg": "/static/media/share.4964ea6ca8fd0e96f42560bcc22f420d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.0a6d989971c05e6fcb11563bb598c162.svg",
+    "main.71876494.css.map": "/static/css/main.71876494.css.map",
+    "main.d6363f21.js.map": "/static/js/main.d6363f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71876494.css",
+    "static/js/main.d6363f21.js"
+  ]
+}

@@ -1,0 +1,78 @@
+/* src/logged_in_header/LoggedInHeader.module.css */
+.loggedInHeader {
+  background-color: var(--background-color);
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Distribute space between items */
+  padding: 0 20px;
+  border: none;
+}
+
+.loggedInHeader span {
+  color: var(--text-color);
+  margin-top: 10px;
+  margin-right: 10px;
+  text-decoration: none; /* Remove underline */
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 65px;
+  width: 100%;
+}
+
+.searchContainer {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profilePicture {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.buttonsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0);
+  color: #007bff;
+  border: 1px solid #007bff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.profileLink {
+  display: flex;
+  align-items: center;
+  text-decoration: none; /* Remove underline from the link */
+  transition: transform 0.2s; /* Add transition for the pop-out effect */
+}
+
+.profileLink:hover {
+  transform: scale(1.05); /* Slightly increase size on hover */
+}

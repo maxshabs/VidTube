@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Minecraft Adventure",
+    "description": "Join the fun in this Minecraft adventure.",
+    "author": "Emma Brown",
+    "username": "emma_brown",
+    "img": "public/images/img1.jpg",
+    "video": "public/mainVideos/vid1.mp4",
+    "authorImage": "public/profileImages/profile5.jpg",
+    "uploadTime": "2012-08-25T21:00:00Z",
+    "views": "600K"
+  },
+  {
+    "title": "Gran Turismo",
+    "description": "Experience the thrill of the race in Gran Turismo.",
+    "author": "Michael Johnson",
+    "username": "michael_johnson",
+    "img": "public/images/img2.jpg",
+    "video": "public/mainVideos/vid2.mp4",
+    "authorImage": "public/profileImages/profile6.jpg",
+    "uploadTime": "2021-01-10T10:00:00Z",
+    "views": "1M"
+  },
+  {
+    "title": "Stephen Curry Highlights",
+    "description": "Best moments of Stephen Curry.",
+    "author": "Sam Jackson",
+    "username": "sam_jackson",
+    "img": "public/images/img3.jpg",
+    "video": "public/mainVideos/vid3.mp4",
+    "authorImage": "public/profileImages/profile3.jpg",
+    "uploadTime": "2022-06-20T14:30:00Z",
+    "views": "500K"
+  },
+  {
+    "title": "Lebron James Dunk",
+    "description": "Crazy dunk by Lebron james.",
+    "author": "Jane Smith",
+    "username": "jane_smith",
+    "img": "public/images/img4.jpg",
+    "video": "public/mainVideos/vid4.mp4",
+    "authorImage": "public/profileImages/profile2.jpg",
+    "uploadTime": "2024-02-14T09:00:00Z",
+    "views": "300K"
+  },
+  {
+    "title": "Comedy Sketch",
+    "description": "Laugh out loud with this comedy sketch.",
+    "author": "Tom White",
+    "username": "tom_white",
+    "img": "public/images/img5.jpg",
+    "video": "public/mainVideos/vid5.mp4",
+    "authorImage": "public/profileImages/profile4.jpg",
+    "uploadTime": "2021-11-05T11:45:00Z",
+    "views": "700K"
+  },
+  {
+    "title": "Guitar Performance",
+    "description": "Enjoy this soothing guitar performance.",
+    "author": "Emma Brown",
+    "username": "emma_brown",
+    "img": "public/images/img6.jpg",
+    "video": "public/mainVideos/vid6.mp4",
+    "authorImage": "public/profileImages/profile5.jpg",
+    "uploadTime": "2020-09-22T16:00:00Z",
+    "views": "400K"
+  },
+  {
+    "title": "Funny Reaction",
+    "description": "Watch this hilarious reaction.",
+    "author": "Michael Johnson",
+    "username": "michael_johnson",
+    "img": "public/images/img7.jpg",
+    "video": "public/mainVideos/vid7.mp4",
+    "authorImage": "public/profileImages/profile6.jpg",
+    "uploadTime": "2022-04-10T18:20:00Z",
+    "views": "250K"
+  },
+  {
+    "title": "Cristiano Ronaldo Goal",
+    "description": "Great goal from Cristiano Ronaldo.",
+    "author": "Sam Jackson",
+    "username": "sam_jackson",
+    "img": "public/images/img8.jpg",
+    "video": "public/mainVideos/vid8.mp4",
+    "authorImage": "public/profileImages/profile3.jpg",
+    "uploadTime": "2022-04-01T13:30:00Z",
+    "views": "1.2M"
+  },
+  {
+    "title": "Dame Time Moment",
+    "description": "One of the top plays of Damian Lillard.",
+    "author": "Jane Smith",
+    "username": "jane_smith",
+    "img": "public/images/img9.jpg",
+    "video": "public/mainVideos/vid9.mp4",
+    "authorImage": "public/profileImages/profile2.jpg",
+    "uploadTime": "2021-07-19T15:45:00Z",
+    "views": "800K"
+  },
+  {
+    "title": "Clownfish in the Ocean",
+    "description": "Beautiful underwater video of clownfish.",
+    "author": "Tom White",
+    "username": "tom_white",
+    "img": "public/images/img10.jpg",
+    "video": "public/mainVideos/vid10.mp4",
+    "authorImage": "public/profileImages/profile4.jpg",
+    "uploadTime": "2020-03-30T07:15:00Z",
+    "views": "900K"
+  },
+  {
+    "title": "Book Video",
+    "description": "A video of a book flipping pages.",
+    "author": "John Doe",
+    "username": "john_doe",
+    "img": "public/images/img11.jpg",
+    "video": "public/mainVideos/vid11.mp4",
+    "authorImage": "public/profileImages/profile1.jpg",
+    "uploadTime": "2024-01-15T10:00:00Z",
+    "views": "200K"
+  },
+  {
+    "title": "Squirrel Eating",
+    "description": "A squirrel eating nuts.",
+    "author": "Jane Smith",
+    "username": "jane_smith",
+    "img": "public/images/img12.jpg",
+    "video": "public/mainVideos/vid12.mp4",
+    "authorImage": "public/profileImages/profile2.jpg",
+    "uploadTime": "2022-02-10T14:30:00Z",
+    "views": "150K"
+  },
+  {
+    "title": "Space Effect",
+    "description": "A video showing a space effect.",
+    "author": "Sam Jackson",
+    "username": "sam_jackson",
+    "img": "public/images/img13.jpg",
+    "video": "public/mainVideos/vid13.mp4",
+    "authorImage": "public/profileImages/profile3.jpg",
+    "uploadTime": "2024-04-20T09:00:00Z",
+    "views": "180K"
+  },
+  {
+    "title": "Cute Cat",
+    "description": "A small cat in the garden.",
+    "author": "Emma Brown",
+    "username": "emma_brown",
+    "img": "public/images/img14.jpg",
+    "video": "public/mainVideos/vid14.mp4",
+    "authorImage": "public/profileImages/profile5.jpg",
+    "uploadTime": "2021-07-19T11:45:00Z",
+    "views": "250K"
+  },
+  {
+    "title": "Kangaroo and Baby",
+    "description": "A kangaroo with her baby.",
+    "author": "Tom White",
+    "username": "tom_white",
+    "img": "public/images/img15.jpg",
+    "video": "public/mainVideos/vid15.mp4",
+    "authorImage": "public/profileImages/profile4.jpg",
+    "uploadTime": "2021-02-10T16:00:00Z",
+    "views": "300K"
+  },
+  {
+    "title": "Giannis Edit",
+    "description": "A video edit of Giannis Antetokounmpo.",
+    "author": "John Doe",
+    "username": "john_doe",
+    "img": "public/images/img16.jpg",
+    "video": "public/mainVideos/vid16.mp4",
+    "authorImage": "public/profileImages/profile1.jpg",
+    "uploadTime": "2024-04-01T18:20:00Z",
+    "views": "220K"
+  },
+  {
+    "title": "Rashford and Neymar",
+    "description": "A video of Rashford talking to Neymar.",
+    "author": "Michael Johnson",
+    "username": "michael_johnson",
+    "img": "public/images/img17.jpg",
+    "video": "public/mainVideos/vid17.mp4",
+    "authorImage": "public/profileImages/profile6.jpg",
+    "uploadTime": "2022-06-20T13:30:00Z",
+    "views": "170K"
+  },
+  {
+    "title": "Vardy Danish Friends",
+    "description": "Jamie Vardy saying 'OOH Danish friends'.",
+    "author": "Jane Smith",
+    "username": "jane_smith",
+    "img": "public/images/img18.jpg",
+    "video": "public/mainVideos/vid18.mp4",
+    "authorImage": "public/profileImages/profile2.jpg",
+    "uploadTime": "2022-04-15T15:45:00Z",
+    "views": "400K"
+  },
+  {
+    "title": "Kid Singing in Car",
+    "description": "A kid singing a song in the car.",
+    "author": "Sam Jackson",
+    "username": "sam_jackson",
+    "img": "public/images/img19.jpg",
+    "video": "public/mainVideos/vid19.mp4",
+    "authorImage": "public/profileImages/profile3.jpg",
+    "uploadTime": "2021-11-01T07:15:00Z",
+    "views": "350K"
+  },
+  {
+    "title": "Underwater Funny Video",
+    "description": "A funny video of someone underwater.",
+    "author": "Tom White",
+    "username": "tom_white",
+    "img": "public/images/img20.jpg",
+    "video": "public/mainVideos/vid20.mp4",
+    "authorImage": "public/profileImages/profile4.jpg",
+    "uploadTime": "2021-09-10T21:00:00Z",
+    "views": "500K"
+  }
+]

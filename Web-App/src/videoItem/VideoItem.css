@@ -1,0 +1,65 @@
+.card {
+    color: var(--card-text-color);
+    background-color: var(--card-background-color);
+    border: none;
+    overflow: hidden;
+    transition: transform 0.2s;
+    margin: 10px; 
+    text-decoration: none;
+    width: auto;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    border-radius: 12px; 
+    border: 1px solid #b3b3b3; 
+    height: 150px;
+}
+
+.card-body {
+    padding: 10px; 
+}
+
+.card-title {
+    font-size: 1rem; 
+    margin-bottom: 0.5rem; 
+    line-height: 1.2; 
+}
+
+.card-text {
+    font-size: 0.875rem;
+    margin-bottom: 0.25rem;
+    line-height: 1.2;
+}
+
+.card-text:last-child {
+    color: #aaa;
+}
+
+.btn {
+    float: right;
+    color: var(--background-color);
+}
+
+#edit-btn {
+    float: left;
+    background-color: rgba(0, 47, 255, 0.774);
+    color: var(--background-color);
+}
+
+#edit-btn:hover {
+    background-color: rgba(0, 47, 255, 0.9);
+}
+
+#delete-btn {
+    float: right;
+    background-color: rgba(163, 10, 10, 0.774);
+    color: var(--background-color);
+}
+
+#delete-btn:hover {
+    background-color: rgba(163, 10, 10, 0.9);
+}

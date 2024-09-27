@@ -1,0 +1,140 @@
+/* Container */
+.container {
+    display: flex; /* Flexbox layout */
+    flex-direction: column; /* Stack the flex items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh; /* Full height of the viewport */
+    background-color: var(--background-color);
+}
+
+/* Form Wrapper to Position Form */
+.formWrapper {
+    width: 350px; /* Width for 9:16 ratio */
+    height: 600px; /* Height for 9:16 ratio */
+    padding: 30px; /* Add some padding */
+    background-color: var(--background-sign-in-and-out); 
+    transition: background-color 0.3s;
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Add a shadow */
+}
+
+/* Form */
+.form {
+    display: flex; /* Flexbox layout */
+    flex-direction: column; /* Stack the flex items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: space-between; /* Space between items */ 
+    height: 100%; /* Full height */
+}
+
+/* Logo */
+.logo {
+    width: 100%; /* Full width */
+    margin-bottom: 10px; /* Space between logo and form */
+}
+
+
+/* Input Container */
+.inputContainer {
+    width: 100%; /* Full width */
+    position: relative; /* Position relative for absolute positioning */
+    margin-bottom: 15px; /* Reduce margin between inputs */
+}
+
+/* Input */
+.input {
+    background-color: var(--inputlabel-sign-in-and-out); 
+    transition: 0.3s;
+    width: 100%; /* Full width */
+    padding: 15px 10px; /* Add some padding */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 10px; /* Rounded corners */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    font-size: 16px; /* Increase font size */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a shadow to inputs */
+}
+
+/* Label Inside Input */
+.inputLabel {
+    position: absolute; /* Position absolute */
+    top: -10px; /* Position above the input */
+    left: 10px; /* Position to the left inside the input */
+    background-color: var(--inputlabel-sign-in-and-out); 
+    transition: 0.3s;
+    padding: 0 5px; /* Padding for background */
+    font-size: 15px; /* Larger font size */
+    color: #333; /* Darker color */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Placeholder */
+.input::placeholder {
+    font-size: 14px; /* Set the font size for the placeholder text */
+    color: var(--placeholder-sign-in-and-out)
+}
+
+.input:focus {
+    outline: none; /* Remove the outline */
+    background-color: var(--inputlabel-sign-in-and-out);
+}
+
+/* Button */
+.button {
+    width: 100%; /* Full width */
+    padding: 10px; /* Add some padding */
+    background-color: var(--link-color); 
+    transition: background-color 0.3s;
+    color: #fff; /* White text */
+    font-weight: bold; /* Bold text */
+    border: none; /* Remove the border */
+    border-radius: 15px; /* Rounded corners */
+    cursor: pointer; /* Add a pointer cursor */
+    font-size: 16px; /* Increase font size for the button */
+    margin-top: 20px; /* Add margin to the top */
+}
+
+.button:hover {
+    background-color: var(--hover-sign-in-and-out); 
+}
+
+/* Link */
+.link {
+    color: #007bff; /* Blue text color */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    margin-top: 10px; /* Add margin to the top */
+    margin-bottom: 20px; /* Add margin to the bottom */
+}
+
+.link:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+
+.errorMessage {
+    color: red; /* Red text color */
+    font-size: 14px; /* Small font size */
+    margin-top: -10px; /* Add some negative margin to the top */
+    margin-bottom: 10px; /* Add some margin to the bottom */
+}
+
+
+.button_theme {
+    background-color: rgba(255, 255, 255, 0);
+    color: #007bff;
+    border: 1px solid #007bff;
+    padding: 0.4rem 0.8rem;
+    border-radius: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .button_theme:hover {
+    background-color: #007bff;
+    color: white;
+  }

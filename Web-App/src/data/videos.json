@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Funniest video of 2022",
+    "description": "The funniest video of 2022. You will laugh so hard that you will cry!",
+    "author": "MemePage1",
+    "views": "1.2M",
+    "img": "/images/img1.jpg",
+    "video": "/mainVideos/funnyvid.mp4",
+    "uploadTime": "2024-06-07T15:56:00Z",
+    "authorImage": "/images/img1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Lebron James insane dunk",
+    "description": "Lebron james puts nurkic on a poster!",
+    "author": "LeKing James",
+    "views": "517K",
+    "img": "/images/lebronpic.jpg",
+    "video": "/mainVideos/lebronDunk.mp4",
+    "uploadTime": "2022-06-07T12:00:00Z",
+    "authorImage": "/images/img2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Deadpool 2 trailer",
+    "description": "Coming soon to theatres near you and worldwide.",
+    "author": "Marvel Studios",
+    "views": "1.2M",
+    "img": "/images/deadpoolpic.jpg",
+    "video": "/mainVideos/deadpool.mp4",
+    "uploadTime": "2022-01-01T12:00:00Z",
+    "authorImage": "/images/img3.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Family guy 6 second talkshow",
+    "description": "funny family guy clip",
+    "author": "MegaEpicGaming",
+    "views": "5.7K",
+    "img": "/images/famguy1pic.jpg",
+    "video": "/mainVideos/familyguy.mp4",
+    "uploadTime": "2023-11-01T12:00:00Z",
+    "authorImage": "/images/img4.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Family guy roasts countries FUNNY!",
+    "description": "funny family guy clip2",
+    "author": "DailyLaugh",
+    "views": "3.4M",
+    "img": "/images/famguy2pic.jpg",
+    "video": "/mainVideos/familyguy2.mp4",
+    "uploadTime": "2023-10-01T12:00:00Z",
+    "authorImage": "/images/img5.jpg"
+  },
+  {
+    "id": "6",
+    "title": "GTA VI trailer",
+    "description": "gonna be amazing.",
+    "author": "Rockstar Games",
+    "views": "5.2M",
+    "img": "/images/gtavipic.jpg",
+    "video": "/mainVideos/gtavi.mp4",
+    "uploadTime": "2024-05-01T12:00:00Z",
+    "authorImage": "/images/img9.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Anthony Edwards can't believe he missed a shot",
+    "description": "Anthony is an up and coming NBA star, watch him react to a missed shot.",
+    "author": "NBA",
+    "views": "2M",
+    "img": "/images/anthony.jpg",
+    "video": "/mainVideos/AnthonyEdwards.mp4",
+    "uploadTime": "2023-04-01T12:00:00Z",
+    "authorImage": "/images/img6.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Funny Minions",
+    "description": "The funniest minions video of 2023, if you laugh you lose!",
+    "author": "FunnyMinions",
+    "views": "1.5M",
+    "img": "/images/minionspic.jpg",
+    "video": "/mainVideos/minions.mp4",
+    "uploadTime": "2024-05-30T12:00:00Z",
+    "authorImage": "/images/img7.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Tokyo from all angles-amazing!",
+    "description": "The best of Tokyo, Japan.",
+    "author": "TravelToday",
+    "views": "103K",
+    "img": "/images/tokyothings.jpg",
+    "video": "/mainVideos/tokyo.mp4",
+    "uploadTime": "2019-01-01T12:00:00Z",
+    "authorImage": "/images/img8.jpg"
+  },
+  {
+    "id": "10",
+    "title": "30 second animation",
+    "author": "Animate Central",
+    "views": "1.9M",
+    "description": "A video showcasing the best Animation of 2023. You won't believe how cool it is!",
+    "img": "/images/animationpic.jpg",
+    "video": "/mainVideos/Animation.mp4",
+    "uploadTime": "2023-03-01T12:00:00Z",
+    "authorImage": "/images/img10.jpg"
+  }
+]
