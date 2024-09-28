@@ -1,4 +1,6 @@
 # VidTube
+![VidTube Logo](./images/logo.png)
+
 VidTube is a full-stack video-sharing platform with both web and Android clients, powered by a Node.js server and a C++ recommendation algorithm. The project is built across four interconnected **[repositories](#repositories)**, each serving a unique function in the system architecture.
 
 
