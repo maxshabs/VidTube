@@ -7,6 +7,10 @@ VidTube is a full-stack video-sharing platform with both web and Android clients
 
 This project is designed to provide a seamless video-streaming experience with recommendations based on a custom algorithm. The system integrates multiple components to serve both web and Android platforms.
 
+## Screenshots
+### Web app:
+
+
 ## Repositories
 
 The project is split into four main repositories, each handling a different part of the system:
