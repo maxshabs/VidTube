@@ -51,9 +51,6 @@ The system is designed with a **client-server architecture**, where the web and 
 - **Native Android Application**: Android client for mobile users, featuring smooth video playback and user-friendly interactions.
 - **Node.js API**: Backend API that handles data persistence, user management, and video handling for both web and Android.
 - **Recommendation Algorithm**: A custom C++ algorithm to provide personalized video recommendations based on watch history and popular trends.
-
-Sure! Here's an explanation of the RESTful API for your project that you can add to your GitHub README:
-
 ---
 
 ## RESTful API
