@@ -13,8 +13,8 @@ This project is designed to provide a seamless video-streaming experience with r
 ![Video Screen](Web-App/Web-app-Screenshots/Screenshot_6.png)
 
 ### Android app:
-![Home Screen]()
-![Video Screen]()
+![Home Screen](Android-App/Android-app-screenshots/Screenshot_6.png)
+![Video Screen](Android-App/Android-app-screenshots/Screenshot_36.png)
 
 
 ## Repositories
