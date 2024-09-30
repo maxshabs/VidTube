@@ -9,7 +9,7 @@ This project is designed to provide a seamless video-streaming experience with r
 
 ## Screenshots
 ### Web app:
-![Home Screen]()
+![Home Screen](Web-App/Web-app-Screenshots/Screenshot_1.png)
 ![Video Screen]()
 
 ### Android app:
