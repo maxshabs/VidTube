@@ -9,6 +9,12 @@ This project is designed to provide a seamless video-streaming experience with r
 
 ## Screenshots
 ### Web app:
+![Home Screen]()
+![Video Screen]()
+
+### Android app:
+![Home Screen]()
+![Video Screen]()
 
 
 ## Repositories
